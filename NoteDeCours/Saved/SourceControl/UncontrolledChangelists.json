@@ -19,9 +19,17 @@
 				"D:/NoteDeCours/Content/ThirdPerson/LevelAgent.umap",
 				"D:/NoteDeCours/Content/_GENERATED/2430066/Box_520D6803.uasset",
 				"D:/NoteDeCours/Content/_GENERATED/2430066/Cylinder_3DB76C44.uasset",
-				"D:/NoteDeCours/Content/ThirdPerson/Blueprints/NewBlueprint.uasset",
 				"D:/NoteDeCours/Content/ThirdPerson/Blueprints/BP_alarm_light.uasset",
-				"D:/NoteDeCours/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/2F/YHKQMBTHX1VME43HXLG2CW.uasset"
+				"D:/NoteDeCours/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/2F/YHKQMBTHX1VME43HXLG2CW.uasset",
+				"D:/TP2_ProofOfConcept/NoteDeCours/Content/ThirdPerson/Blueprints/BP_alarm_light.uasset",
+				"D:/TP2_ProofOfConcept/NoteDeCours/Content/ThirdPerson/Blueprints/Interactable/BP_Interactable.uasset",
+				"D:/TP2_ProofOfConcept/NoteDeCours/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/9R/34U2PT32KED9RJDSBLAUFG.uasset",
+				"D:/TP2_ProofOfConcept/NoteDeCours/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/5X/Y2ZYV720AR5U2Y8LZ8MTYY.uasset",
+				"D:/TP2_ProofOfConcept/NoteDeCours/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/2F/YHKQMBTHX1VME43HXLG2CW.uasset",
+				"D:/TP2_ProofOfConcept/NoteDeCours/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/TP2_ProofOfConcept/NoteDeCours/Content/Input/Actions/IA_Interact.uasset",
+				"D:/TP2_ProofOfConcept/NoteDeCours/Content/Input/IMC_Default.uasset",
+				"D:/NoteDeCours/Content/ThirdPerson/Blueprints/NewBlueprint.uasset"
 			]
 		}
 	]
