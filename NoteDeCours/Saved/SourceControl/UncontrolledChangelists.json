@@ -29,6 +29,14 @@
 				"D:/TP2_ProofOfConcept/NoteDeCours/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"D:/TP2_ProofOfConcept/NoteDeCours/Content/Input/Actions/IA_Interact.uasset",
 				"D:/TP2_ProofOfConcept/NoteDeCours/Content/Input/IMC_Default.uasset",
+				"D:/TP2_ProofOfConcept/NoteDeCours/Content/ThirdPerson/Blueprints/Interactable/NPC/BP_NPC.uasset",
+				"D:/TP2_ProofOfConcept/NoteDeCours/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/CA/VJPKQJ98YE06G8TTWW6DQF.uasset",
+				"D:/TP2_ProofOfConcept/NoteDeCours/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/9Z/HE5HRHMIY7K9UN2EIDBH0E.uasset",
+				"D:/TP2_ProofOfConcept/NoteDeCours/Content/ThirdPerson/Blueprints/Interactable/NPC/BP_NPC_1.uasset",
+				"D:/TP2_ProofOfConcept/NoteDeCours/Content/ThirdPerson/Blueprints/Dialogue/BP_DA_Dialogue.uasset",
+				"D:/TP2_ProofOfConcept/NoteDeCours/Content/ThirdPerson/Blueprints/Dialogue/DA_BobbyBoucher.uasset",
+				"D:/TP2_ProofOfConcept/NoteDeCours/Content/ThirdPerson/Blueprints/UMG/UMG_MainUI.uasset",
+				"D:/TP2_ProofOfConcept/NoteDeCours/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
 				"D:/NoteDeCours/Content/ThirdPerson/Blueprints/NewBlueprint.uasset"
 			]
 		}
